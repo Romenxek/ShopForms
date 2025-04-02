@@ -1,0 +1,18 @@
+[
+    {
+      "last_delivery": "01.01.2024",
+      "name": "dobryj-multifrukt",
+      "photo": "dobryj-multifrukt.jpg",
+      "price": "10.000000",
+      "quantity": "5",
+      "unit": "1.000 L."
+    },
+    {
+      "last_delivery": "02.01.2024",
+      "name": "Vobla",
+      "photo": "1674182525_papik-pro-p-risunok-vobla-12.jpg",
+      "price": "20.000000",
+      "quantity": "3",
+      "unit": "0.500 Kg."
+    }
+]
